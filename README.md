@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160414 "Metaball vs. Particle"  
+# Everyday One Motion - 20160414  
+
+"Metaball vs. Particle"  
 
 ![](20160414.gif)  
 
 JavaScript, WebGL, Raymarching, GPGPU Particle  
 
 [Everyday One Motion](http://motions.work/motion/191)  
-[Demo Page](http://fms-cat.github.io/eom_20160414)  
+[Demo Page](http://fms-cat.github.io/eom_20160414/dist)  
 
 ## 今月のテーマ
 
