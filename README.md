@@ -7,7 +7,7 @@
 JavaScript, WebGL, Raymarching, GPGPU Particle  
 
 [Everyday One Motion](http://motions.work/motion/191)  
-[Demo Page](http://fms-cat.github.io/eom_20160414/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160414/dist)  
 
 ## 今月のテーマ
 
@@ -15,12 +15,12 @@ JavaScript, WebGL, Raymarching, GPGPU Particle
 
 ## Collision / Velocity of the scene
 
-[前回](https://github.com/fms-cat/eom_20160407) のRaymarcherとパーティクルの当たり判定では、Raymarcherで描画した物体が動いていませんでした。これは、動いている物体とパーティクルとの当たり判定ができていなかったからです。  
+[前回](https://github.com/fms-cat-eom/20160407) のRaymarcherとパーティクルの当たり判定では、Raymarcherで描画した物体が動いていませんでした。これは、動いている物体とパーティクルとの当たり判定ができていなかったからです。  
 今回、パーティクルがRaymarcherと衝突した際に、Distance Functionを時間で微分することにより、動くRaymarcherがどのくらいの速度でパーティクルに衝突してきたかがわかるようになりました。  
 
 ## Metaball
 
-今回はメタボールとパーティクルをぶつけてみました。メタボールの描画は [eom_20160121](https://github.com/fms-cat/eom_20160121) でもやりました。  
+今回はメタボールとパーティクルをぶつけてみました。メタボールの描画は [eom_20160121](https://github.com/fms-cat-eom/20160121) でもやりました。  
 パーティクルがメタボールと衝突して飛び散るのは非常に見ていて楽しいですね。  
 
 ## Volume of particle
